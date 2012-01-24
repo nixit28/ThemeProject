@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyTheme" parent="android:style/Theme.Light">
+        <item name="android:buttonStyle">@style/Widget.ButtonView</item>
+        <item name="android:listViewStyle">@style/Widget.MyListView</item>
+        <item name="android:windowTitleSize">38dip</item>
+        <item name="android:windowTitleStyle">@style/WindowTitle</item>
+        <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+    </style>
+
+</resources>

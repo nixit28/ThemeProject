@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="button_start">#FF589EE5</color>
+    <color name="button_end">#FF285889</color>
+    <color name="button_start_clicked">#FF7BBCFE</color>
+    <color name="button_end_clicked">#FF007EFE</color>
+    <color name="button_stroke">#FF1F4E7F</color>
+    <color name="button_stroke_selected">#FF0469CF</color>
+    <color name="button_focused_border">#FFFFD400</color>
+    <color name="listview_top">#FFE6E7E8</color>
+    
+    <color name="listview_center">#FFFFFFFF</color>
+    <color name="listview_bottom">#FFE6E7E8</color>
+    <color name="listview_stroke">#FFD6D6D6</color>
+    
+    <color name="color_foreground">#FFBBBBBB</color>
+    
+    <color name="listview_top_selected">#FF529FE3</color>
+    <color name="listview_center_selected">#FF80C2FD</color>
+    <color name="listview_bottom_selected">#FF529FE3</color>
+    
+    <color name="list_header_start">#FFFCA221</color>
+    <color name="list_header_end">#FFE08805</color>
+
+    <color name="header_start">#FF5AA3ED</color>
+    <color name="header_end">#FF17497C</color>
+</resources>
